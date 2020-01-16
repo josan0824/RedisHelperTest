@@ -1,0 +1,6 @@
+D:\works\cshape\jqb_new\jqb.Common\jqb.Common\StackExchange.Redis\bin\Debug\StackExchange.Redis.dll
+D:\works\cshape\jqb_new\jqb.Common\jqb.Common\StackExchange.Redis\bin\Debug\StackExchange.Redis.pdb
+D:\works\cshape\jqb_new\jqb.Common\jqb.Common\StackExchange.Redis\obj\Debug\StackExchange.Redis.csprojAssemblyReference.cache
+D:\works\cshape\jqb_new\jqb.Common\jqb.Common\StackExchange.Redis\obj\Debug\StackExchange.Redis.csproj.CoreCompileInputs.cache
+D:\works\cshape\jqb_new\jqb.Common\jqb.Common\StackExchange.Redis\obj\Debug\StackExchange.Redis.dll
+D:\works\cshape\jqb_new\jqb.Common\jqb.Common\StackExchange.Redis\obj\Debug\StackExchange.Redis.pdb

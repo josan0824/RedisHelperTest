@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisHelperTest", "RedisHelperTest\RedisHelperTest.csproj", "{C41A5BBF-572E-4EBB-BA1C-E241F253CE30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackExchange.Redis", "StackExchange.Redis\StackExchange.Redis.csproj", "{BF74313A-376E-456A-9E03-1C4E7CC9D349}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jqb.Common.Cache", "jqb.Common.Cache\jqb.Common.Cache.csproj", "{28F3EBCF-7F6D-42E9-92DB-F1816FCF447E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C41A5BBF-572E-4EBB-BA1C-E241F253CE30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C41A5BBF-572E-4EBB-BA1C-E241F253CE30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C41A5BBF-572E-4EBB-BA1C-E241F253CE30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF74313A-376E-456A-9E03-1C4E7CC9D349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF74313A-376E-456A-9E03-1C4E7CC9D349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF74313A-376E-456A-9E03-1C4E7CC9D349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF74313A-376E-456A-9E03-1C4E7CC9D349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28F3EBCF-7F6D-42E9-92DB-F1816FCF447E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F3EBCF-7F6D-42E9-92DB-F1816FCF447E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F3EBCF-7F6D-42E9-92DB-F1816FCF447E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F3EBCF-7F6D-42E9-92DB-F1816FCF447E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

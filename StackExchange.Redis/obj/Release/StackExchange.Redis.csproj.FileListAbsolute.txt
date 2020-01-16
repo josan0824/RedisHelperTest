@@ -1,0 +1,10 @@
+D:\works\cshape\jqb_new\jqb.Common\jqb.Common\StackExchange.Redis\bin\Release\StackExchange.Redis.dll
+D:\works\cshape\jqb_new\jqb.Common\jqb.Common\StackExchange.Redis\bin\Release\StackExchange.Redis.pdb
+D:\works\cshape\jqb_new\jqb.Common\jqb.Common\StackExchange.Redis\obj\Release\StackExchange.Redis.csproj.CoreCompileInputs.cache
+D:\works\cshape\jqb_new\jqb.Common\jqb.Common\StackExchange.Redis\obj\Release\StackExchange.Redis.dll
+D:\works\cshape\jqb_new\jqb.Common\jqb.Common\StackExchange.Redis\obj\Release\StackExchange.Redis.pdb
+C:\Users\Administrator\source\repos\RedisHelperTest\StackExchange.Redis\bin\Release\StackExchange.Redis.dll
+C:\Users\Administrator\source\repos\RedisHelperTest\StackExchange.Redis\bin\Release\StackExchange.Redis.pdb
+C:\Users\Administrator\source\repos\RedisHelperTest\StackExchange.Redis\obj\Release\StackExchange.Redis.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\RedisHelperTest\StackExchange.Redis\obj\Release\StackExchange.Redis.dll
+C:\Users\Administrator\source\repos\RedisHelperTest\StackExchange.Redis\obj\Release\StackExchange.Redis.pdb
