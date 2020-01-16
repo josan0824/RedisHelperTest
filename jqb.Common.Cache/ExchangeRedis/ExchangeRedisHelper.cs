@@ -37,7 +37,8 @@ namespace jqb.Common.Cache
 
         /// <summary>
         /// 构造函数
-        /// </summary>
+        
+            /// </summary>
         /// <param name="dbIndex">数据库db访问索引</param>
         public ExchangeRedisHelper(int dbIndex = 0)
         {

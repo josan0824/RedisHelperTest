@@ -13,11 +13,11 @@ namespace RedisHelperTest
         private static ExchangeRedisHelper redisHelprer = new ExchangeRedisHelper();
         //过期时间
         private const int REDIS_EXPIRE_SECONDS = 24 * 60 * 60;
-        private static TimeSpan REDIS_EXPIRE_TIMESPAN = new TimeSpan(0, 29, 0, 0);
 
         static void Main(string[] args)
         {
-            string name = GetUserName("zhangsan");
+            GetUserName("zhangsan");
+            GetUserName("lisi");
             Console.ReadLine();
 
         }
@@ -38,7 +38,7 @@ namespace RedisHelperTest
             if (string.IsNullOrEmpty(nameValue))
             {
                 nameValue = "my name is：" + name;
-                //设置值
+                //设置值，最后一个参数为过期时间
                 redisHelprer.SetToBinary(key, nameValue, REDIS_EXPIRE_SECONDS);
             }
             nameValue = redisHelprer.GetFromBinary<string>(key);
